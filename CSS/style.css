@@ -16,8 +16,17 @@ p {
 }
 
 table {
-    margin-left: 40%;
+    margin-left: 35%;
+    border-spacing: 0px;
+    width: 30%;
+    height: 150px;
+    font-size: x-small;
 }
+
+th, td {
+    text-align: left;
+    vertical-align: top;
+ }
 
 caption {
     background-color: green;
@@ -77,4 +86,56 @@ caption {
 
 #gray1 {
     background-color: gray;
+}
+
+.teal2 {
+    color: teal;
+}
+
+.blue2 {
+    color: blue;
+}
+
+.navy2 {
+    color: navy;
+}
+
+.lime2 {
+    color: lime;
+}  
+
+.white {
+    color: white;
+}
+
+.purple2 {
+    color: purple;
+}
+
+.yellow2 {
+    color: yellow;
+}
+
+.marron2 {
+    color: brown;
+}
+
+.gray2 {
+    color: gray
+}
+
+.fuchsia2 {
+    color: fuchsia;
+}
+
+.green2 {
+    color: green;
+}
+
+.aqua2 {
+    color: aqua;
+}
+
+.silver2 {
+    color: silver;
 }
