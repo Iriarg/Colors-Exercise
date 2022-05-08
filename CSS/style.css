@@ -1,0 +1,80 @@
+@import url(colors.css);
+
+body {
+    background: bisque url(EJERCICIO2/wood.jpg);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+
+table {
+    margin-left: 40%;
+}
+
+caption {
+    background-color: green;
+}
+
+#black1 {
+    background-color: black;
+}
+
+#teal1 {
+    background-color: teal;
+}
+
+#blue1 {
+    background-color: blue;
+}
+
+#navy1 {
+    background-color: navy;
+}
+
+#lime1 {
+    background-color: lime;
+}
+
+#white1 {
+    background-color: white;
+}
+
+#purple1 {
+    background-color: purple;
+}
+
+#yellow1 {
+    background-color: yellow;
+}
+
+#olive1 {
+    background-color: olive;
+}
+
+#red1 {
+    background-color: red;
+}
+
+#fuchsia1 {
+    background-color: fuchsia;
+}
+
+#green1 {
+    background-color: green;
+}
+
+#marron1 {
+    background-color: brown;
+}
+
+#gray1 {
+    background-color: gray;
+}
